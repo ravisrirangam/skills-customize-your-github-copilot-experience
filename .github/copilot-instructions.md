@@ -2,6 +2,7 @@
 
 This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
 
+
 ## Project Structure
 
 - [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
